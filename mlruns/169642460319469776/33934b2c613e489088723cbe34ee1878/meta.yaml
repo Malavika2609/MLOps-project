@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/malav/OneDrive/Documents/Python%20Projects/docker_implementation/MLOps_project/mlruns/169642460319469776/33934b2c613e489088723cbe34ee1878/artifacts
+end_time: 1762100297529
+entry_point_name: ''
+experiment_id: '169642460319469776'
+lifecycle_stage: active
+run_id: 33934b2c613e489088723cbe34ee1878
+run_name: fortunate-whale-264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762100286417
+status: 3
+tags: []
+user_id: malav

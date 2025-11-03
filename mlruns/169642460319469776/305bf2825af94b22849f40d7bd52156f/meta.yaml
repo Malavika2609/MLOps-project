@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/malav/OneDrive/Documents/Python%20Projects/docker_implementation/MLOps_project/mlruns/169642460319469776/305bf2825af94b22849f40d7bd52156f/artifacts
+end_time: 1762099735556
+entry_point_name: ''
+experiment_id: '169642460319469776'
+lifecycle_stage: active
+run_id: 305bf2825af94b22849f40d7bd52156f
+run_name: youthful-skink-850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762099724152
+status: 3
+tags: []
+user_id: malav

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/malav/OneDrive/Documents/Python%20Projects/docker_implementation/MLOps_project/mlruns/169642460319469776/449e047a12cb41ad800037da8b5c85de/artifacts
+end_time: 1762099547882
+entry_point_name: ''
+experiment_id: '169642460319469776'
+lifecycle_stage: active
+run_id: 449e047a12cb41ad800037da8b5c85de
+run_name: luminous-goose-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762099536283
+status: 3
+tags: []
+user_id: malav

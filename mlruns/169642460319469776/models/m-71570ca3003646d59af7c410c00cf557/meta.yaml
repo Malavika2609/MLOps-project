@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/malav/OneDrive/Documents/Python%20Projects/docker_implementation/MLOps_project/mlruns/169642460319469776/models/m-71570ca3003646d59af7c410c00cf557/artifacts
+creation_timestamp: 1762099536404
+experiment_id: '169642460319469776'
+last_updated_timestamp: 1762099547860
+model_id: m-71570ca3003646d59af7c410c00cf557
+model_type: null
+name: model
+source_run_id: 449e047a12cb41ad800037da8b5c85de
+status: 2
+status_message: null

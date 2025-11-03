@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/malav/OneDrive/Documents/Python%20Projects/docker_implementation/MLOps_project/mlruns/169642460319469776/373bb7ff87ab43e48aef98f79e804be2/artifacts
+end_time: 1762100370130
+entry_point_name: ''
+experiment_id: '169642460319469776'
+lifecycle_stage: active
+run_id: 373bb7ff87ab43e48aef98f79e804be2
+run_name: rogue-ram-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762100358994
+status: 3
+tags: []
+user_id: malav

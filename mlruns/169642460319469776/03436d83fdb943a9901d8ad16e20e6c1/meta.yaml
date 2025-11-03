@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/malav/OneDrive/Documents/Python%20Projects/docker_implementation/MLOps_project/mlruns/169642460319469776/03436d83fdb943a9901d8ad16e20e6c1/artifacts
+end_time: 1762099814989
+entry_point_name: ''
+experiment_id: '169642460319469776'
+lifecycle_stage: active
+run_id: 03436d83fdb943a9901d8ad16e20e6c1
+run_name: sassy-mink-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762099803690
+status: 3
+tags: []
+user_id: malav

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/malav/OneDrive/Documents/Python%20Projects/docker_implementation/MLOps_project/mlruns/169642460319469776/ed5e5f219772488db04748104efe4c35/artifacts
+end_time: 1762100020999
+entry_point_name: ''
+experiment_id: '169642460319469776'
+lifecycle_stage: active
+run_id: ed5e5f219772488db04748104efe4c35
+run_name: bouncy-newt-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762100009808
+status: 3
+tags: []
+user_id: malav
