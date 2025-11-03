@@ -9,7 +9,7 @@ __version__ = "0.0.0"
 REPO_NAME = "MLOps-project"
 AUTHOR_USER_NAME = "Malavika2609"
 SRC_REPO = "mlProject"
-AUTHOR_EMAIL = "malavikasaravanan26@gmail.com"
+AUTHOR_EMAIL = "test_email"
 
 
 setuptools.setup(
